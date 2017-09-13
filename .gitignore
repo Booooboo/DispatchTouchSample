@@ -1,0 +1,16 @@
+/bin
+bin/*
+/proguard
+proguard_logs/
+proguard/*
+.idea*
+*.iml
+
+.idea
+out/
+out/*
+.DS_Store
+local.properties
+
+.gradle
+build/
